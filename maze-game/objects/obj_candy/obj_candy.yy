@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_candy",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_girl","path":"objects/obj_girl/obj_girl.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_candy",
   "overriddenProperties":[],
