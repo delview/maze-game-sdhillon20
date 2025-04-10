@@ -19,8 +19,8 @@
   ],
   "name":"rm_winscreen",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
